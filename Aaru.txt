@@ -1,6 +1,3 @@
-I am Pooja
-I am Devops Engineer to be
-I will definately become devops engineer
-And I will Earn 12 LPA package in next 6 months
-I kniw I can do it
-I have the power to achieve my dreams and no one can stop me
+print ("hello pooja")
+
+
